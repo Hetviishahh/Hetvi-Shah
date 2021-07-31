@@ -1,0 +1,30 @@
+
+/*font family abel*/
+@font-face {
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+/*font family courgette*/
+@font-face {
+    font-family: courgette;
+    src: url('../fonts/Courgette/Courgette-Regular.ttf');
+}
+
+/*font family livvic*/
+@font-face {
+    font-family: livvic;
+    src: url('../fonts/Livvic/Livvic-Regular.ttf');
+}
+
+/*font family nixie-one*/
+@font-face {
+    font-family: Nixie_One;
+    src: url('../fonts/Nixie_One/NixieOne-Regular.ttf');
+}
+
+/*font family satisfy*/
+@font-face {
+    font-family: Satisfy;
+    src: url('../fonts/Satisfy/Satisfy-Regular.ttf');
+}
